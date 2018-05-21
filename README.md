@@ -1,7 +1,7 @@
 # simple1024
 This is an ongoing effort to create a reasonably good word list for [sdice](https://github.com/pera/sdice), an easily auditable passphrase generator for Unix-like systems. The initial version of *sdice* used a subset of EFF's [Short Wordlist #1](https://www.eff.org/dice), which have some great properties but unfortunately contains many words that I (a non-native English speaker) am unfamiliar with, and therefore some of the generated passphrases were considerably more difficult to remember than others. Because of this, some users (such as myself :) may feel the temptation of rolling till they get a nice passphrase, resulting in an unknown reduction of entropy.
 
-The *wordlist.asc* file contains 1024 English words each of which should ideally respect all of the following principles:
+The *wordlist.txt* file contains 1024 English words each of which should ideally respect all of the following principles:
 - Most English speakers probably know its definition and spelling.
 - It is generally not considered charged.
 - It is a lexical lemma (i.e. in dictionary form).
