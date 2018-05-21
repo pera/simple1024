@@ -42,7 +42,6 @@ animal
 annual
 answer
 any
-anyway
 appear
 apple
 arcade
@@ -202,6 +201,7 @@ color
 column
 combo
 comedy
+comet
 comic
 commit
 common
@@ -269,7 +269,6 @@ dinner
 direct
 disc
 divide
-doc
 dodge
 dollar
 domain
@@ -313,6 +312,7 @@ epic
 equal
 error
 escape
+euro
 event
 every
 evoke
@@ -355,7 +355,7 @@ flip
 float
 floor
 floppy
-floral
+flora
 flower
 fly
 foam
@@ -391,9 +391,11 @@ garlic
 gas
 gate
 gene
+genius
 gentle
 get
 giant
+giga
 give
 glad
 glass
@@ -460,8 +462,6 @@ inch
 indeed
 index
 indoor
-info
-inform
 inn
 input
 inside
@@ -487,6 +487,7 @@ karma
 keep
 kernel
 key
+kilo
 knee
 knock
 lab
@@ -535,10 +536,10 @@ lunch
 luxury
 lyric
 magic
+magma
 magnet
 makeup
 manage
-manner
 manual
 map
 maple
@@ -554,7 +555,6 @@ matrix
 maybe
 mayor
 media
-medium
 meet
 member
 memory
@@ -583,12 +583,13 @@ more
 motion
 motor
 mount
-mouth
 movie
 much
 mud
 museum
 music
+name
+nano
 nation
 native
 nature
@@ -615,6 +616,7 @@ nylon
 oak
 oasis
 object
+oboe
 obtain
 ocean
 off
@@ -635,7 +637,6 @@ orbit
 order
 origin
 other
-out
 outlet
 output
 oval
@@ -662,6 +663,7 @@ pencil
 pepper
 period
 permit
+pesto
 phone
 photo
 phrase
@@ -707,6 +709,7 @@ proxy
 pub
 public
 pulse
+pure
 purple
 puzzle
 python
@@ -765,7 +768,7 @@ robust
 rock
 roll
 room
-rotary
+rope
 route
 royal
 rubber
@@ -775,7 +778,7 @@ runner
 rural
 safari
 safe
-safety
+saga
 salad
 salary
 salmon
@@ -824,7 +827,6 @@ shock
 shore
 shorts
 shower
-shut
 sigma
 sign
 signal
@@ -855,6 +857,7 @@ soup
 source
 spa
 space
+speak
 speed
 spell
 sphere
@@ -887,7 +890,6 @@ style
 submit
 sugar
 summer
-sunday
 sunset
 super
 supply
@@ -931,7 +933,6 @@ ticket
 tiger
 tiny
 title
-today
 token
 tomato
 topic
@@ -982,7 +983,6 @@ vinyl
 violin
 visit
 visual
-vocal
 voice
 void
 volume
