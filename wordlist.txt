@@ -217,6 +217,7 @@ county
 course
 court
 cover
+cow
 craft
 crane
 create
@@ -320,6 +321,7 @@ exam
 except
 excuse
 exit
+exotic
 expand
 expect
 extend
@@ -332,7 +334,6 @@ farm
 fast
 fault
 feel
-felt
 fence
 fiber
 field
@@ -346,7 +347,6 @@ finite
 fire
 first
 fix
-fixed
 flag
 flavor
 flex
@@ -412,7 +412,6 @@ grid
 groove
 group
 grow
-growth
 guard
 guess
 guide
@@ -444,6 +443,7 @@ home
 honest
 honey
 honor
+horn
 hot
 hotel
 house
@@ -619,7 +619,6 @@ obtain
 ocean
 off
 office
-offset
 often
 oil
 olive
@@ -688,7 +687,6 @@ poem
 poker
 polar
 police
-polish
 polka
 pond
 pop
@@ -727,8 +725,10 @@ rare
 reader
 ready
 realm
+recipe
 record
 reduce
+reef
 reform
 refund
 region
@@ -944,7 +944,6 @@ travel
 tray
 tree
 trend
-trip
 triple
 trivia
 truck
@@ -1000,6 +999,7 @@ wheel
 white
 who
 width
+wiki
 wind
 window
 winter
