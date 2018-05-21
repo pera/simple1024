@@ -135,7 +135,7 @@ bus
 butter
 button
 buyer
-buzz
+buzzer
 byte
 cabin
 cache
