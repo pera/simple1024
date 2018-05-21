@@ -11,15 +11,17 @@ die "Missing file argument.\n" unless $ARGV[0];
 open my $fh, '<', $ARGV[0] or die $!;
 
 my %words = ();
+my @ordered = ();
 
 while (<$fh>) {
 	chomp;
 	$words{$_} = 1;
+	push @ordered, $_;
 }
 
 close $fh;
 
-foreach my $current (keys %words) {
+foreach my $current (@ordered) {
 	next unless defined $words{$current};
 	delete $words{$current};
 
@@ -33,6 +35,6 @@ foreach my $current (keys %words) {
 		}
 	}
 
-	say($current . (scalar @similar ? ' : ' . join(' ', sort({length($a) cmp length($b)} sort @similar)) : ''));
+	say($current . (scalar @similar ? ' : ' . join(' ', @similar) : ''));
 }
 
