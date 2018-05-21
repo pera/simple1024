@@ -33,6 +33,7 @@ aloe
 alpha
 alpine
 also
+alumni
 always
 amber
 analog
@@ -52,7 +53,6 @@ array
 arrive
 arrow
 artist
-arts
 aside
 aspect
 asset
@@ -72,6 +72,7 @@ avatar
 avenue
 aware
 away
+axiom
 axis
 backup
 badge
@@ -79,8 +80,8 @@ bag
 baker
 banana
 bank
+barrel
 base
-basics
 basil
 basket
 bean
@@ -143,7 +144,6 @@ calm
 camel
 camera
 camp
-campus
 canal
 cancel
 candle
@@ -160,6 +160,7 @@ casino
 castle
 casual
 cause
+cement
 census
 center
 chain
@@ -174,6 +175,7 @@ chief
 choice
 choir
 choose
+chorus
 chrome
 cinema
 circle
@@ -225,7 +227,7 @@ crisp
 crop
 crowd
 cruise
-cubic
+cube
 cup
 cursor
 curve
@@ -295,6 +297,7 @@ elect
 eleven
 elite
 elixir
+else
 email
 empire
 empty
@@ -375,19 +378,19 @@ front
 frozen
 fruit
 full
-funds
+fund
 funky
 fusion
 future
 fuzzy
 galaxy
-games
 gamma
 garage
 garden
 garlic
 gas
 gate
+gene
 gentle
 get
 giant
@@ -431,8 +434,7 @@ height
 hello
 helmet
 help
-herbs
-here
+herb
 hide
 high
 hill
@@ -453,6 +455,7 @@ idle
 image
 impact
 import
+inbox
 inch
 indeed
 index
@@ -489,6 +492,7 @@ knock
 lab
 label
 labor
+lambda
 laptop
 large
 laser
@@ -549,7 +553,6 @@ math
 matrix
 maybe
 mayor
-means
 media
 medium
 meet
@@ -586,11 +589,9 @@ much
 mud
 museum
 music
-name
 nation
 native
 nature
-nearby
 need
 neon
 neuron
@@ -601,6 +602,7 @@ night
 ninja
 noble
 nobody
+noise
 norm
 normal
 north
@@ -615,7 +617,6 @@ oasis
 object
 obtain
 ocean
-odds
 off
 office
 offset
@@ -627,7 +628,7 @@ online
 only
 open
 opera
-optics
+optic
 option
 oracle
 orange
@@ -684,10 +685,8 @@ plenty
 plug
 pocket
 poem
-poetry
 poker
 polar
-pole
 police
 polish
 polka
@@ -721,7 +720,6 @@ quote
 rabbit
 radar
 radio
-radius
 rain
 random
 rapid
@@ -765,6 +763,7 @@ road
 robot
 robust
 rock
+roll
 room
 rotary
 route
@@ -782,6 +781,7 @@ salary
 salmon
 salt
 sand
+saturn
 sauce
 sauna
 saver
@@ -804,6 +804,7 @@ see
 seeker
 self
 seller
+senate
 sense
 sensor
 sepia
@@ -870,11 +871,10 @@ star
 state
 static
 status
-steps
+step
 stereo
 still
 stone
-stop
 story
 strap
 stream
@@ -970,7 +970,7 @@ urban
 use
 valid
 valley
-value
+valve
 vector
 velvet
 vendor
