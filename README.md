@@ -13,7 +13,7 @@ Additionally, words that have a root with multiple similar descendants among Ind
 
 To identify what words are known by the vast majority of English speakers we consider the extremely useful data that is being gathered by the [Center for Reading Research](http://crr.ugent.be/). Another important resources for vocabulary are the [Simple English Wikipedia](https://simple.wikipedia.org/), Princeton's [WordNet](https://wordnet.princeton.edu/), the BNC [frequency list](http://ucrel.lancs.ac.uk/bncfreq/flists.html) and the [12Dicts Package](http://wordlist.aspell.net/12dicts/).
 
-The included Perl script named *gen.pl* is a tool that groups together entries from a word list file when they have a distance of just 1 character. Another useful tool to analyze word lists is [dwdiff](https://os.ghalkes.nl/dwdiff.html) (a word level diff).
+The included Perl script named *similar.pl* is a tool that groups together entries from a word list file when they have a distance of just 1 character. Another useful tool to analyze word lists is [dwdiff](https://os.ghalkes.nl/dwdiff.html) (a word level diff).
 
 Comments are very welcome: please feel free to use GitHub's Issues page for them.
 
